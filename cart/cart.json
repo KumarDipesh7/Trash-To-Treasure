@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name":"CARD BOARD",
+        "price": 5,
+        "image":"image/cardboard.jpg"
+    },
+    {
+        "id": 2,
+        "name":"BOTTLE",
+        "price": 250,
+        "image": "image/plastic-bottle.jpg"
+
+    },
+    {
+        "id": 3,
+        "name":"Cu-BOTTLE",
+        "price": 290,
+        "image": "image/copper-bottle.jpg"
+    },
+    {
+        "id": 4,
+        "name":"RECYCLED PAPER",
+        "price": 6,
+        "image": "image/recycled-paper.jpg"
+    }
+
+]
