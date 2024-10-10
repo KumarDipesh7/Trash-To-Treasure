@@ -288,7 +288,7 @@ nav{
 }
 
 .products h1{
-    color: #02B964;
+    color: #19d17b;
     font-weight: lighter;
     padding: 15px 0  0 500px;
     margin-bottom: 50px;
@@ -310,7 +310,7 @@ nav{
     z-index: 1;
 }
 .procont1 h1{
-    color: #02B964;
+    color: #f9f9f9;
     padding: 100px;
     font-weight: bolder;
 }
@@ -328,7 +328,7 @@ nav{
 .procont2 h1{
     font-weight: bolder;
     padding: 100px;
-    color: #02B964;
+    color: #fdfffe;
 }
 .procont1 button{
     background: none;

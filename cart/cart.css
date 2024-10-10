@@ -67,6 +67,7 @@ header{
     padding: 5px 10px;
     margin-top: 10px;
     border-radius: 20px;
+    transition: background-color 0.3s;
 }
 /* cart */
 .cartTab{
@@ -80,6 +81,7 @@ header{
     display: grid;
     grid-template-rows: 70px 1fr 70px;
     transition: .5s;
+    transition: background-color 0.3s;
 }
 body.showCart .cartTab{
     right: 0;
@@ -105,6 +107,7 @@ body.showCart .container{
 }
 .cartTab .close{
     background-color: #1e8119;
+    transition: background-color 0.3s;
 }
 .listCart .item img{
     width: 100%;
